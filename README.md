@@ -17,11 +17,11 @@ log analysis with security rules, and secure REST APIs, each deployed and runnab
 
 ### Tech I work with
 
-**Backend:** Java · Spring Boot · Spring Security · Spring Data JPA · REST APIs · JWT
-**AI:** Spring AI · RAG · pgvector · Google Gemini · prompt and retrieval tuning
-**Data:** PostgreSQL · H2
-**Frontend:** React · Vite
-**Delivery:** Docker · GitHub Actions · Render · Pega BPM integration
+- **Backend:** Java · Spring Boot · Spring Security · Spring Data JPA · REST APIs · JWT
+- **AI:** Spring AI · RAG · pgvector · Google Gemini · prompt and retrieval tuning
+- **Data:** PostgreSQL · H2
+- **Frontend:** React · Vite
+- **Delivery:** Docker · GitHub Actions · Render · Pega BPM integration
 
 ### How I build
 
